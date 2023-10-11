@@ -1,0 +1,25 @@
+.mx-3{
+    color: azure;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 12px;
+
+}
+.ant-table-thead > tr > th {
+    background-color: lightgray; /* Change this to your desired light color */
+  }
+  .ant-table {
+    border: 1px solid rgb(244, 169, 169); /* Change this to your desired border color */
+  }
+  .ant-table-tbody > tr:hover > td {
+    background-color: rgb(226, 46, 46); /* Change this to your desired hover color */
+  }
+  .ant-table-cell{
+    color: white;
+    font-size: 18px;
+    background-color: rgb(33,34,45);
+  }
+  .ant-table-thead{
+    color: white;
+  }
+  
